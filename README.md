@@ -1,4 +1,10 @@
-### Hi there 👋
+### Quem sou eu? 😁
+- 🖐  Me chamo Filipe
+- 🎈  Nasci em 1999 
+- 💼 Trabalho como Suporte Técnico N2
+- 👨‍💻 Faço faculdade de Ciência da Computação
+- 🎨 Estou tentando ingressar na área de desenvolvimento, porém sozinho é mais difícil
+- 🔰  Estudo Java e Front-End
 
 <!--
 **Fellepss/Fellepss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
