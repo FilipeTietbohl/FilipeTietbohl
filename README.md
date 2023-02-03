@@ -4,8 +4,8 @@
 - 💼 Trabalho como Suporte Técnico N2
 - 👨‍💻 Faço faculdade de Ciência da Computação
 - 🎨 Estou tentando ingressar na área de desenvolvimento, porém sozinho é mais difícil
-- 🔰 Estou começando a postar tudo aqui do que já fiz ou faço de código, seja incompleto, insuficiente, em desenvolvimento ou completo
 - Quando tiver tempo, faria uma Pokédex.
+- 🔰 Estou começando a postar tudo aqui do que já fiz ou faço de código, seja incompleto, insuficiente, em desenvolvimento ou completo. Quero mostar que estou progredindo e que sou uma ótima opção de escolha na vaga de emprego.
 
 <!--
 **Fellepss/Fellepss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
