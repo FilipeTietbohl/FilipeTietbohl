@@ -1,9 +1,9 @@
 ### Quem sou eu? 😁
-- 🖐  Me chamo Filipe
-- 🎈  Nasci em 1999 
-- 💼 Trabalho como Suporte Técnico N2
-- 👨‍💻 Faço faculdade de Ciência da Computação
-- 🎨 Estou tentando ingressar na área de desenvolvimento, porém sozinho é mais difícil.
+- 🖐  Me chamo Filipe.
+- 🎈  Nasci em 1999.
+- 💼 Trabalho como Suporte Técnico N2.
+- 👨‍💻 Faço faculdade de Ciência da Computação.
+- 🎨 Estou tentando ingressar na área de desenvolvimento.
 - 🔰 Estou começando a postar tudo aqui do que já fiz ou faço de código, seja incompleto, insuficiente, em desenvolvimento ou completo. Quero mostar que estou progredindo e que sou uma ótima opção de escolha na vaga de emprego.
 
 <!--
